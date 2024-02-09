@@ -1,0 +1,37 @@
+.enroll-student-border {
+
+    padding: 20px;
+
+
+}
+
+.bg-b {
+    border: 2px solid rgb(42, 42, 40);
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+
+.bg-shadow-1 {
+    box-shadow: -5px -5px 2px 1px #e3a0a0;
+    background-color: #e3a0a0;
+
+}
+
+.bg-shadow-2 {
+    box-shadow: -5px -5px 2px 1px #efffa7;
+    background-color: #efffa7;
+
+}
+
+.bg-shadow-3 {
+    box-shadow: -5px -5px 2px 1px #b7e3a0;
+    background-color: #b7e3a0;
+
+}
+
+.bg-shadow-4 {
+    box-shadow: -5px -5px 2px 1px #a0bae3;
+    background-color: #a0bae3;
+
+}
